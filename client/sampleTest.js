@@ -1,5 +1,3 @@
-console.log("la caca");
-
 describe("simple test", function(){
 
     it ("can sum", function(){
