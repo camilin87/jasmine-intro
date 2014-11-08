@@ -1,7 +1,7 @@
 var fact = function(n){
-    if (n < 2){
-        return 1;
+    var result = 1;
+    for (var i = 2; i <= n; i++){
+        result *= i;
     }
-
-    return n*fact(n-1);
+    return result;
 };
