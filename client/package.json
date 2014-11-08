@@ -14,5 +14,6 @@
     "jasmine"
   ],
   "author": "Camilo Sanchez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }

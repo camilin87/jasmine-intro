@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-intro",
+  "version": "0.0.0",
+  "authors": [
+    "Camilo Sanchez <camilin87@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "1.3"
+  }
+}

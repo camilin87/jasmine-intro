@@ -1,0 +1,2221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ssl_p",
+				"ssl_prod_dir"
+			],
+			[
+				"pytho",
+				"python3-dev"
+			],
+			[
+				"hos",
+				"host_file"
+			],
+			[
+				"get",
+				"get_production_host"
+			],
+			[
+				"in",
+				"invoke"
+			],
+			[
+				"relo",
+				"reload_nginx"
+			],
+			[
+				"repo",
+				"reports_dir"
+			],
+			[
+				"inte",
+				"intensity_types_path"
+			],
+			[
+				"wa",
+				"wa_pkg_dir"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"te",
+				"tmp_file"
+			],
+			[
+				"val",
+				"value_sanitized"
+			],
+			[
+				"key",
+				"key_str"
+			],
+			[
+				"gsu",
+				"gsub"
+			],
+			[
+				"tmp",
+				"tmp_file"
+			],
+			[
+				"co",
+				"command_str"
+			],
+			[
+				"set",
+				"set_value"
+			],
+			[
+				"fi",
+				"File"
+			],
+			[
+				"wa_",
+				"wa_pkg_dir"
+			],
+			[
+				"ca",
+				"cache_test_output"
+			],
+			[
+				"url",
+				"url_hialeah"
+			],
+			[
+				"cur",
+				"curl_headers"
+			],
+			[
+				"htt",
+				"http_server"
+			],
+			[
+				"reloa",
+				"reload_uwsgi"
+			],
+			[
+				"no",
+				"no_reload"
+			],
+			[
+				"ser",
+				"server_crt"
+			],
+			[
+				"se",
+				"setup_self_signed_certificate"
+			],
+			[
+				"ver",
+				"verify_ssl"
+			],
+			[
+				"py",
+				"python_command"
+			],
+			[
+				"reload",
+				"reload_nginx"
+			],
+			[
+				"loca",
+				"location_contents"
+			],
+			[
+				"ssl",
+				"ssl_dir"
+			],
+			[
+				"cs",
+				"csr_config"
+			],
+			[
+				"config",
+				"config_csr"
+			],
+			[
+				"serve",
+				"server_key"
+			],
+			[
+				"s",
+				"server_key"
+			],
+			[
+				"open",
+				"Open3"
+			],
+			[
+				"all",
+				"all_urls_return_the_same_response"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"uw",
+				"uwsgi_config_path"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"sett",
+				"setting_name"
+			],
+			[
+				"lo",
+				"logging_config"
+			],
+			[
+				"cac",
+				"cache_config"
+			],
+			[
+				"configu",
+				"configure_nginx"
+			],
+			[
+				"new",
+				"newrelic_config_path"
+			],
+			[
+				"configure",
+				"configure_newrelic"
+			],
+			[
+				"log",
+				"log_files_pattern"
+			],
+			[
+				"uws",
+				"uwsgi_log"
+			],
+			[
+				"ngin",
+				"nginx_logs_folder"
+			],
+			[
+				"No",
+				"NotImplementedError"
+			],
+			[
+				"_re",
+				"_read_bool_uwsgi_parameter"
+			],
+			[
+				"asser",
+				"assert_called_with"
+			],
+			[
+				"_",
+				"_log_data_request"
+			],
+			[
+				"see",
+				"seeded_response"
+			],
+			[
+				"la",
+				"lat_str"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"create",
+				"create_data_retriever"
+			],
+			[
+				"js",
+				"jsonify"
+			],
+			[
+				"jso",
+				"jsonify_func"
+			],
+			[
+				"json",
+				"jsonify_mock"
+			],
+			[
+				"a",
+				"app_core"
+			],
+			[
+				"abo",
+				"abort_mock"
+			],
+			[
+				"app",
+				"app_core"
+			],
+			[
+				"__",
+				"__dict__"
+			],
+			[
+				"api",
+				"api_params"
+			],
+			[
+				"wr",
+				"write_uwsgi_config"
+			],
+			[
+				"di",
+				"disable_debug"
+			],
+			[
+				"_d",
+				"_disable_uwsgi_debug"
+			],
+			[
+				"ng",
+				"nginx_cache_dir"
+			],
+			[
+				"l",
+				"longitude"
+			],
+			[
+				"data",
+				"data_request"
+			],
+			[
+				"inc",
+				"includes_piece"
+			],
+			[
+				"res",
+				"response_piece"
+			],
+			[
+				"conf",
+				"config_existed_before"
+			],
+			[
+				"ass",
+				"assert_true"
+			],
+			[
+				"respo",
+				"responses_match"
+			],
+			[
+				"sta",
+				"start_debug_server"
+			],
+			[
+				"ta",
+				"Task"
+			],
+			[
+				"ki",
+				"kill_debug_server"
+			],
+			[
+				"ep",
+				"expected_data"
+			],
+			[
+				"spa",
+				"spawned_process"
+			],
+			[
+				"test",
+				"test_url_with"
+			],
+			[
+				"en",
+				"env_data"
+			],
+			[
+				"env",
+				"env_data"
+			],
+			[
+				"end",
+				"env_data"
+			],
+			[
+				"we",
+				"webapp_path"
+			],
+			[
+				"ins",
+				"install"
+			],
+			[
+				"p",
+				"pkg"
+			],
+			[
+				"pk",
+				"pkgs"
+			],
+			[
+				"is",
+				"isfile"
+			],
+			[
+				"sub",
+				"sub_pkgs"
+			],
+			[
+				"ur",
+				"url2"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"reque",
+				"request_count"
+			],
+			[
+				"dic",
+				"dict2"
+			],
+			[
+				"file_",
+				"file_content"
+			],
+			[
+				"up",
+				"upstart_config_lines"
+			],
+			[
+				"sudo",
+				"sudo_write_config"
+			],
+			[
+				"ali",
+				"alias_filename"
+			],
+			[
+				"inns",
+				"installed_versions"
+			],
+			[
+				"inst",
+				"install_system_dependencies_mac"
+			],
+			[
+				"instal",
+				"install_prod_system_packages"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"e",
+				"exception"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"retr",
+				"retrieve"
+			],
+			[
+				"prec",
+				"precipProbability"
+			],
+			[
+				"Data",
+				"DataRetrieverController"
+			],
+			[
+				"daa",
+				"data_retriever_mock"
+			],
+			[
+				"pre",
+				"precip"
+			],
+			[
+				"retrieve",
+				"retrieve_func"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"Dat",
+				"DataRequestBuilder"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"retur",
+				"return_code"
+			],
+			[
+				"Ap",
+				"ApiResponse"
+			],
+			[
+				"bui",
+				"builder"
+			],
+			[
+				"para",
+				"param_name"
+			],
+			[
+				"inten",
+				"intensity_type"
+			],
+			[
+				"pop",
+				"pop_percent"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"_Va",
+				"_validate_precipitation"
+			],
+			[
+				"_va",
+				"_validate_pop_percent"
+			],
+			[
+				"da",
+				"DataResponseBuilder"
+			],
+			[
+				"Ra",
+				"RAIN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Readme.txt",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/wa2rake.sublime-build",
+	"command_palette":
+	{
+		"height": 329.0,
+		"selected_items":
+		[
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"mpp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"proje",
+				"File: Copy Path From Project"
+			],
+			[
+				"pa",
+				"File: Copy Path From Project"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"na",
+				"File: Copy Name"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"name",
+				"File: Copy Name"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"rene",
+				"File: Rename"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"nam",
+				"File: Copy Name"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rema",
+				"Package Control: Remove Package"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"ant",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"n",
+				"File: Copy Name"
+			],
+			[
+				"ne",
+				"File: Copy Name Encoded"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"co",
+				"File: Copy Path"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"disabp",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file",
+				"File: Delete"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"file rena",
+				"File: Rename"
+			],
+			[
+				"sia",
+				"View: Toggle Side Bar"
+			],
+			[
+				"extrc",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"extr",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"dide",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"e",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"em",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"ev",
+				"Rope Refactoring: Extract Variable"
+			],
+			[
+				"tid",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"extra",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"extrac",
+				"Rope Refactoring: Extract Method"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tidy",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"sideba ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"scss",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"wrp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"css lo",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"auto",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"preti",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/camilin/devroot/jasmine-intro"
+	],
+	"file_history":
+	[
+		"/Users/camilin/devroot/azure/.gitignore",
+		"/Users/camilin/devroot/azure/package.json",
+		"/Users/camilin/devroot/wa2/docs/Rakefile.rb",
+		"/Users/camilin/devroot/wa2/test_integration/Rakefile.rb",
+		"/Users/camilin/devroot/wa2/Rakefile.rb",
+		"/Users/camilin/devroot/wa2/Rakefile-prod.rb",
+		"/Users/camilin/Cocoa/webfarm/api4/v1_api_raindna_com/COMODORSADomainValidationSecureServerCA.crt",
+		"/Users/camilin/devroot/wa2/test_integration/api_tests_environment_setup.rb",
+		"/Users/camilin/devroot/wa2-setup/setup-wa2-prod.sh",
+		"/Users/camilin/devroot/wa2/Rakefile-setup-dev.rb",
+		"/Users/camilin/devroot/wa2/wa/setup.py",
+		"/Users/camilin/devroot/wa2/host.txt",
+		"/Users/camilin/devroot/pkginit/setup.py",
+		"/private/var/folders/mw/n31pl6dj3mz6j8rgkvz0b_fc0000gn/T/python-build.20140929192108.7929.log",
+		"/Users/camilin/Library/Saved Searches/text-in-xtra-code copy.savedSearch",
+		"/Users/camilin/WindowsStuff/Xtra_stuff/A340-DCPC/A340-DCPC/A340-DCPC-New/Program.cs",
+		"/Users/camilin/devroot/wa2/test_integration/api_tests_utils.rb",
+		"/Users/camilin/devroot/wa2/test_integration/api_tests_cache.rb",
+		"/Users/camilin/devroot/wa2/test_integration/api_tests.rb",
+		"/Users/camilin/devroot/wa2/docs/help_template.md",
+		"/Users/camilin/devroot/wa2/wa/api/apiresponse.py",
+		"/Users/camilin/devroot/wa2/wa/api/apirequest.py",
+		"/Users/camilin/Cocoa/webfarm/api4/v1_api_raindna_com.csr",
+		"/Users/camilin/devroot/wa2/code-reports/WebApiDocs-gen.md",
+		"/Users/camilin/devroot/wa2/.gitignore",
+		"/Users/camilin/devroot/wa2/docs/Readme-gen.md",
+		"/Users/camilin/devroot/wa2/wa/api/dataretrievercontroller.py",
+		"/Users/camilin/devroot/wa2/wa/engine/dataresponse.py",
+		"/Users/camilin/devroot/wa2/wa/api/returncode.py",
+		"/Users/camilin/devroot/wa2/wa/engine/precipitationtype.py",
+		"/Users/camilin/devroot/wa2/wa/extapi/productionkeys.py",
+		"/Users/camilin/devroot/wa2/wa/engine/intensitytype.py",
+		"/Users/camilin/devroot/wa2/build/lib/wa/factory/apifactory.py",
+		"/Users/camilin/devroot/wa2/wa/extapi/dataresponsebuilder.py",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_extapi_dataresponsebuilder.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api_apiresponse.html",
+		"/Users/camilin/devroot/wa2/test/test_apiresponse.py",
+		"/Users/camilin/devroot/wa2/build/lib/wa/api/apiresponse.py",
+		"/Users/camilin/devroot/wa2/.git-stats-src/doc/README",
+		"/Users/camilin/devroot/pkginit/README.rst",
+		"/Users/camilin/devroot/wa2-setup/README.md",
+		"/Users/camilin/devroot/wa2/readme.txt",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api_dataretrievercontroller.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api_returncode.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api_apirequest.html",
+		"/Users/camilin/devroot/wa2/wa/extapi/forecastioretriever.py",
+		"/Users/camilin/devroot/wa2/wa2.sublime-project",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api.html",
+		"/Users/camilin/devroot/wa2/setup-dev.sh",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_api_keyvalidator.html",
+		"/Users/camilin/devroot/wa2/test/cacherequesthelper.py",
+		"/Users/camilin/devroot/wa2/wa/api/hardcodedkeys.py",
+		"/Users/camilin/devroot/wa2/test_program.sh",
+		"/Users/camilin/devroot/wa2/wa/extapi/citkeys.py",
+		"/Users/camilin/devroot/wa2/webapp/app.py",
+		"/Users/camilin/devroot/wa2/webapp/appcore.py",
+		"/Users/camilin/devroot/wa2/test/forecastiohelper.py",
+		"/Users/camilin/devroot/wa2/test/test_appcore.py",
+		"/Users/camilin/devroot/wa2/test/test_integration_api.py",
+		"/Users/camilin/devroot/wa2/wa/api/freeforall.py",
+		"/Users/camilin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/camilin/devroot/wa2/test/test_integration_engine.py",
+		"/Users/camilin/devroot/wa2/test/test_hardcodedkeys.py",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/webapp_appcore.html",
+		"/Users/camilin/devroot/wa2/wa/factory/apifactory.py",
+		"/Users/camilin/devroot/wa2/wa/extapi/apikeyreader.py",
+		"/Users/camilin/devroot/wa2/wa2.log",
+		"/Users/camilin/devroot/wa2/test/test_forecastioretriever.py",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_extapi_forecastioretriever.html",
+		"/Users/camilin/devroot/wa2/test/test_dataretrievercontroller.py",
+		"/Users/camilin/devroot/wa2/test/test_enginefactory.py",
+		"/Users/camilin/devroot/wa2/test/test_apifactory.py",
+		"/Users/camilin/devroot/wa2/test/test_apicharacterization.py",
+		"/Users/camilin/devroot/wa2/wa/factory/enginefactory.py",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_engine.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_engine_intensitytype.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_factory.html",
+		"/Users/camilin/devroot/wa2/code-reports/coverage/wa_factory_apifactory.html",
+		"/Users/camilin/devroot/wa2/wa/api/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/api/datarequestbuilder.py",
+		"/Users/camilin/devroot/wa2/code-reports/gitstats/domains.dat",
+		"/Users/camilin/devroot/wa2/Rakefile-prod",
+		"/Users/camilin/devroot/wa2/scrap/skip-python-version.sh",
+		"/Users/camilin/devroot/wa2/test_integration/config.rb",
+		"/Users/camilin/devroot/wa2/Rakefile",
+		"/Users/camilin/devroot/wa2/Rakefile-setup-dev",
+		"/private/tmp/build.log",
+		"/Users/camilin/devroot/uwsgi_python3_tabs.txt",
+		"/Users/camilin/devroot/wa2/scrap/forecastapi.py",
+		"/Users/camilin/devroot/wa2/.git-stats-src/doc/AUTHOR",
+		"/Users/camilin/devroot/wa2/.git-stats-src/doc/INSTALL",
+		"/Users/camilin/devroot/wa2/build/lib/wa/factory/__init__.py",
+		"/Users/camilin/devroot/wa2/build/lib/wa/extapi/__init__.py",
+		"/Users/camilin/devroot/wa2/build/lib/wa/engine/__init__.py",
+		"/Users/camilin/devroot/wa2/build/lib/wa/api/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/factory/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/extapi/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/engine/__init__.py",
+		"/Users/camilin/Cocoa/pypirc.txt",
+		"/Users/camilin/devroot/pkg-tools/README.rst",
+		"/Users/camilin/devroot/pkg-tools/setup.py",
+		"/Users/camilin/devroot/pkg-tools/__init__.py",
+		"/Users/camilin/devroot/pkg-tools/pkg-tools.py",
+		"/Users/camilin/devroot/pkgtools/setup.py",
+		"/Users/camilin/devroot/pkgtools/README.rst",
+		"/Users/camilin/devroot/pkgtools/MANIFEST",
+		"/Users/camilin/devroot/pkgtools/MANIFEST.in",
+		"/Users/camilin/devroot/pkgtools/pkgtools.py",
+		"/Users/camilin/devroot/pkgtools/__init__.py",
+		"/Users/camilin/devroot/pkgtools/setup.cfg",
+		"/Users/camilin/devroot/wa2/pkgtools/modules/modules.py",
+		"/Users/camilin/devroot/wa2/pkgtools/setup.py",
+		"/Users/camilin/devroot/wa2/pkgtools/modules/__init__.py",
+		"/Users/camilin/devroot/wa2/webapp/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/__init__.py",
+		"/Users/camilin/devroot/wa2/pkgtools/__init__.py",
+		"/Users/camilin/devroot/wa2/pkgtools/MANIFEST.in",
+		"/Users/camilin/devroot/wa2/wa/MANIFEST.in",
+		"/Users/camilin/devroot/wa2/wa/utils/__init__.py",
+		"/Users/camilin/devroot/wa2/wa/initutil.py",
+		"/Users/camilin/devroot/wa2/wa/build/lib/api/apirequest.py",
+		"/Users/camilin/.pyenv/versions/3.4.0/lib/python3.4/site-packages/wa-0.1-py3.4.egg-info",
+		"/Users/camilin/devroot/wa2/test/test_datarequest.py",
+		"/Users/camilin/devroot/wa2/test/test_dataresponse.py",
+		"/Users/camilin/devroot/wa2/test/test_dataresponsebuilder.py",
+		"/Users/camilin/devroot/wa2/test/test_dataretriever.py",
+		"/Users/camilin/devroot/wa2/test/test_apirequest.py",
+		"/Users/camilin/devroot/wa2/test/test_datarequestbuilder.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.py, *.rb",
+			"*.py",
+			"setup.py",
+			"*.py, *.rb",
+			"",
+			"*.py",
+			"*.rb",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"*.*",
+			"*.py",
+			"*.*",
+			"",
+			",*.py",
+			",*.log",
+			",*.py",
+			",*.py,*.out,*.sh, Makefile, *.txt",
+			",*.py,*.out,*.sh, Makefile",
+			",*.py,*.out,*.sh",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,*.out,*.sh",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,*.out",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,",
+			"/Users/camilin/Cocoa/wa/wa/test,*.py,",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,-test_*.py",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,*/test_*.py",
+			"/Users/camilin/Cocoa/wa/wa/,*.py,test_*.py",
+			"/Users/camilin/Cocoa/wa/wa/,*.py",
+			"/Users/camilin/Cocoa/wa/wa/test/,*.py",
+			"/Users/camilin/Cocoa/wa/wa/,*.py",
+			"/Users/camilin/Cocoa/wa/wa/test/,*.py",
+			"/Users/camilin/Cocoa/wa/wa/test/\\,*.py",
+			"/Users/camilin/Cocoa/wa/wa/,*.py",
+			"/Users/camilin/Cocoa/wa/wa/",
+			"/Users/camilin/Cocoa/wa/wa/test",
+			"/Users/camilin/Cocoa/wa/wa/",
+			"/Users/camilin/Cocoa/wa/wa/test",
+			"/Users/camilin/Cocoa/wa/wa/changeanalyzer",
+			"/Users/camilin/Cocoa/wa/wa/test",
+			"/Users/camilin/Cocoa/wa/wa/",
+			"/Users/camilin/Cocoa/wa/wa/downloader/",
+			"/Users/camilin/Cocoa/wa/wa/test",
+			"/Users/camilin/Cocoa/wa/wa/",
+			"/Users/camilin/Cocoa/wa/",
+			"/Users/camilin/Cocoa/wa/*/*.py",
+			"/Users/camilin/Cocoa/wa/*.py",
+			"/Users/camilin/Cocoa/wa/",
+			"/Users/camilin/Cocoa/wa/wa_parser/",
+			"/Users/camilin/Cocoa/wa/wa_crawler/",
+			"/Users/camilin/Cocoa/wa/wa/test/",
+			"/Users/camilin/Cocoa/wa/wa/",
+			"/Users/camilin/Cocoa/wa/",
+			"/Users/camilin/Cocoa/wa/wa/test",
+			"/Users/camilin/Cocoa/wa/wa",
+			"<open files>",
+			"/Users/camilin/Cocoa/wa/wa_crawler",
+			"<open folders>",
+			"<open files>",
+			"",
+			"/Users/camilin/Cocoa/wa/wa_crawler/",
+			"/Users/camilin/Cocoa/wa/wa_crawler/test/waparser_data",
+			"",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views/",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/",
+			"/Users/camilin/Sites/senior_project/application",
+			"<open folders>",
+			"<open files>",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application/models",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views/",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views/",
+			"/Users/camilin/Sites/senior_project/application/controllers/",
+			"/Users/camilin/Sites/senior_project/application/",
+			"/Users/camilin/Sites/senior_project/application/views",
+			"/Users/camilin/Sites/senior_project/application",
+			"",
+			"-*.js,/Users/camilin/Sites/senior_project/application",
+			"-*.css,-*.js,/Users/camilin/Sites/senior_project/application",
+			"<open folders>,-*.css,-*.js",
+			"<open folders>,-*.css",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"create_ssl_dir",
+			"all_urls_return_different_responses",
+			"install_latest_pip3",
+			"sh \"sudo ",
+			"rm",
+			"requests",
+			"sudo_install_pypi_packages",
+			"install_pypi_prod_dependencies",
+			"install_system_dependencies_linux",
+			"install_prod_system_packages",
+			"install_prod_wa_packages",
+			"configure_nginx",
+			"basedir",
+			"install_pypi_dev_dependencies",
+			"install_dev_python_dependencies_mac",
+			"xcode",
+			"3.4.1",
+			"3.4.0",
+			"rake::",
+			"Dir.chdir",
+			"dir",
+			"fail",
+			"abort",
+			"fail",
+			"version",
+			"raindna",
+			"smartweatheralerts",
+			"raindna.com",
+			"base_dir",
+			"v1.api.raindna.com",
+			"smartweatheralerts",
+			"3600",
+			":create_ssl_dir",
+			":clean_ssl_dir",
+			"smartweatheralerts",
+			"raindna",
+			"smartweatheralerts",
+			"smart",
+			"reboot_required_path",
+			":docs",
+			"d\n",
+			":report_lines_of_code",
+			"$reports_dir",
+			":clean",
+			":create_reports_dir",
+			"create_reports_dir",
+			"set_value",
+			":reports",
+			"output_file",
+			"test_integration_dir",
+			"chdir",
+			"intensity_types_path",
+			"ApiResponse",
+			"ApiResponse(",
+			"f",
+			"_SUB_PKGS",
+			"sub_pkgs",
+			"pkg_dir",
+			"PKG_DIR",
+			"pkg_dir",
+			"_PKG_DIR_PATH",
+			"pkg_dir_path",
+			":cache_hit_header",
+			"File.exists?",
+			"write_config",
+			"configure_uwsgi",
+			"restart",
+			"configure_nginx",
+			":reload_nginx",
+			"get_nginx_config_contents",
+			"configure_nginx",
+			"get_nginx_config_contents",
+			":reload_nginx",
+			"get_nginx_config_contents",
+			"True",
+			"setup_self_signed_certificate_if_needed",
+			":setup_self_signed_certificate_if_needed",
+			"File.exists",
+			"verify_ssl",
+			"python_command",
+			"curl_headers",
+			"Rake::Task[:reload_nginx].invoke",
+			"mkdir",
+			"basedir",
+			".each",
+			"server.key",
+			"puts",
+			"yes",
+			"# ",
+			"write_uwsgi_config",
+			"transaction_tracer.enabled",
+			"`sed -i 's/transaction_tracer.enabled/#transaction_tracer.enabled/g' #{newrelic_config_path}`\n",
+			"sed",
+			"disable_debug",
+			"uwsgi_config_path",
+			"uwsgi_config",
+			"include?",
+			"contains?",
+			".include?",
+			"grep",
+			"shutdown_uwsgi",
+			"configure_uwsgi",
+			"uwsgi_start_command",
+			"uwsgi_daemonize_config",
+			"/tmp/wa2_uwsgi",
+			"uwsgi_master_fifo",
+			"/tmp/wa2_uwsgi",
+			"False",
+			"config_contents",
+			"newrelic_config_path",
+			"configure_log_rotation",
+			"/var/log/nginx",
+			"raise NotImplementedError",
+			"logging.",
+			"grep",
+			"_log_level",
+			"write_uwsgi_config",
+			"self.disable_debug",
+			"disable_debug",
+			"argv",
+			"INFO",
+			"basicConfig",
+			"disable_debug",
+			"debug",
+			"decode(",
+			"_abort_wrapper",
+			"1407121740",
+			"assertTrue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_PKG_DIR",
+			"from pkginit import load_modules",
+			"pkginit",
+			"@patch(\"wa.factory.",
+			"@patch(\"wa.extapi.",
+			"from wa.engine",
+			"from wa.factory",
+			"from wa.api",
+			"from wa.extapi",
+			"@patch(\"wa2.app.",
+			"from wa2.app.",
+			"@patch(\"app.factory",
+			"@patch(\"app.extapi",
+			"from app.extapi",
+			"from app.engine",
+			"from app.factory",
+			"from app.api",
+			"from app.extapi.",
+			"@patch(\"wa2.factory",
+			"@patch(\"wa2.extapi.",
+			"from wa2.api import returncode",
+			"from forecastiohelper import ForecastIoHelper",
+			"from wa2.forecastiohelper import",
+			"from wa2.engine import",
+			"from wa2.engine.",
+			"from wa2.factory.",
+			"from wa2.api.",
+			"from wa2.extapi.",
+			"/t/",
+			"from engine import",
+			"from engine.",
+			"from unittest.mock import",
+			"intensitytype",
+			"DataResponse",
+			"dataresponse",
+			"DataRequest",
+			"datarequest",
+			"DataRetriever",
+			"DownloadHelper(location_data_db, app.configuration.download_retry_count)",
+			"",
+			", return_value=",
+			"Mock(side_effect=",
+			"Mock(return_value=",
+			"if __name__ == \"__main__\":",
+			"12",
+			"datetime_str",
+			"datetime_from",
+			"TimeCalculator",
+			"from utils.timecalculator import",
+			"from utils.previoustimecalculator import PreviousTimeCalculator",
+			"from dalcsv.",
+			"from magicmockwithstr import MagicMockWithStr",
+			"from datetimeutils import DateTimeUtils",
+			"from test.datetimeutils import DateTimeUtils",
+			"from utils.tempfilehandler import TempFileHandler",
+			"wa.log",
+			"log_filename",
+			"wa_download.log",
+			"download_log",
+			"location_data_idx",
+			"partition_idx",
+			"",
+			"partition_idx\n/Users/camilin/Cocoa/wa/wa/,*.py,*.out\n\npartition_idx",
+			"DictComparer",
+			"from utils.dictcomparer import ArgsComparer",
+			"format_str",
+			"description_format",
+			"_append_read_data_to_response_body",
+			"_get_rain_changes_only_one_record",
+			"_is_temperature",
+			"_process_temperature",
+			"_is_probability_of_precipitation",
+			"_process_probability_of_precipitation",
+			"_validate_analyzer_initial_state",
+			"_verify_no_change_only_one_record",
+			"_get_snow_changes_only_one_record",
+			"_create_request",
+			"_load_file",
+			"_validate_analyzer_initial_state",
+			"_validate_factory_initial_state",
+			"_execute_precipitation_change",
+			"_create_coordinates",
+			"_setup_format_datetime_for_request",
+			"_datetime_from_string",
+			"_setup_format_datetime_for_request",
+			"_validate_default_state",
+			"_validate_initial_state",
+			"_validate_list",
+			"_validate_list_item",
+			"_count_approximate",
+			"_parse_file",
+			"_download_result_from_filename",
+			"_fp",
+			"_test_multiple_locations",
+			"_received_data_for_n_locations",
+			"_received_location_data",
+			"_received_api_error",
+			"_validate_location_data_correct_location",
+			"_seed_correct_location_data",
+			"_date_from_string",
+			"_build_location_data_with_str",
+			"_search",
+			"_create_xml_location_data",
+			"_read_xml_location_data",
+			"_process_child_element",
+			"_is_precipitation",
+			"_is_snow",
+			"_is_liquid",
+			"_read_snow",
+			"_try_to_read_snow",
+			"_read_liquid",
+			"_try_to_read_liquid",
+			"_read_xml_value_node",
+			"_read_xml_float_value",
+			"_process_xml_value_node",
+			"_process_precipitation",
+			"_process_internal",
+			"_calculate_distance",
+			"_validate_parameters",
+			"_verify_target_is_in_domain",
+			"_verify_target_does_not_contain_data_in_domain",
+			"_save_closest_location",
+			"_is_closest_location",
+			"_inspect_item",
+			"_should_inspect_element",
+			"_find_closest_location",
+			"_value_contains_data",
+			"_validate_download_result"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jasmine-intro.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"install.sh"
+			],
+			[
+				"rake",
+				"wa2/Rakefile-prod.rb"
+			],
+			[
+				"api_tests_environment_setup.rb",
+				"wa2/test_integration/api_tests_environment_setup.rb"
+			],
+			[
+				"setup-wa2-prod.sh",
+				"wa2-setup/setup-wa2-prod.sh"
+			],
+			[
+				"setup.py",
+				"wa2/wa/setup.py"
+			],
+			[
+				"apitest",
+				"wa2/test_integration/api_tests_cache.rb"
+			],
+			[
+				"uti",
+				"wa2/test_integration/api_tests_utils.rb"
+			],
+			[
+				"envi",
+				"wa2/test_integration/api_tests_environment_setup.rb"
+			],
+			[
+				"rakefile-pro",
+				"wa2/Rakefile-prod.rb"
+			],
+			[
+				".git",
+				"wa2/.gitignore"
+			],
+			[
+				"returncode",
+				"wa2/wa/api/returncode.py"
+			],
+			[
+				"data",
+				"wa2/wa/api/dataretrievercontroller.py"
+			],
+			[
+				"preci",
+				"wa2/wa/engine/precipitationtype.py"
+			],
+			[
+				"intensitytype",
+				"wa2/wa/engine/intensitytype.py"
+			],
+			[
+				"dataresponse",
+				"wa2/wa/engine/dataresponse.py"
+			],
+			[
+				"apiresponse",
+				"wa2/wa/extapi/dataresponsebuilder.py"
+			],
+			[
+				"readme-gen",
+				"wa2/docs/Readme-gen.md"
+			],
+			[
+				"readme-",
+				"wa2/docs/Readme-gen.md"
+			],
+			[
+				"setup",
+				"wa2/wa/setup.py"
+			],
+			[
+				"apirequ",
+				"wa2/wa/api/apirequest.py"
+			],
+			[
+				"dataretrievercontroller",
+				"wa2/wa/api/dataretrievercontroller.py"
+			],
+			[
+				"forecastioretriever",
+				"wa2/wa/extapi/forecastioretriever.py"
+			],
+			[
+				"se",
+				"wa2/wa/setup.py"
+			],
+			[
+				"set",
+				"wa2-setup/setup-wa2-prod.sh"
+			],
+			[
+				"ra",
+				"wa2/Rakefile.rb"
+			],
+			[
+				"api_ca",
+				"wa2/test_integration/api_tests_cache.rb"
+			],
+			[
+				"util",
+				"wa2/test_integration/api_tests_utils.rb"
+			],
+			[
+				"cacherequesthelper",
+				"wa2/test/cacherequesthelper.py"
+			],
+			[
+				"api_test",
+				"wa2/test_integration/api_tests_environment_setup.rb"
+			],
+			[
+				"read",
+				"wa2/readme.txt"
+			],
+			[
+				"setupd",
+				"wa2/Rakefile-setup-dev.rb"
+			],
+			[
+				"hard",
+				"wa2/wa/api/hardcodedkeys.py"
+			],
+			[
+				"pro",
+				"wa2/wa/extapi/productionkeys.py"
+			],
+			[
+				"cacherequesthelper.py",
+				"wa2/test/cacherequesthelper.py"
+			],
+			[
+				"api_cac",
+				"wa2/test_integration/api_tests_cache.rb"
+			],
+			[
+				"fore",
+				"wa2/wa/extapi/forecastioretriever.py"
+			],
+			[
+				"test_inte",
+				"wa2/test/test_integration_api.py"
+			],
+			[
+				"test_in",
+				"wa2/test/test_integration_engine.py"
+			],
+			[
+				"appcore",
+				"wa2/test/test_appcore.py"
+			],
+			[
+				"appco",
+				"wa2/webapp/appcore.py"
+			],
+			[
+				"appcp",
+				"wa2/webapp/appcore.py"
+			],
+			[
+				"api",
+				"wa2/test_integration/api_tests_utils.rb"
+			],
+			[
+				"wa2",
+				"wa2/wa2.log"
+			],
+			[
+				"app",
+				"wa2/webapp/app.py"
+			],
+			[
+				"api_utl",
+				"wa2/test_integration/api_tests_utils.rb"
+			],
+			[
+				"test_app",
+				"wa2/test/test_apifactory.py"
+			],
+			[
+				"apires",
+				"wa2/wa/api/apiresponse.py"
+			],
+			[
+				"engine",
+				"wa2/wa/factory/enginefactory.py"
+			],
+			[
+				"fac",
+				"wa2/code-reports/coverage/wa_factory.html"
+			],
+			[
+				"api_u",
+				"wa2/test_integration/api_tests_utils.rb"
+			],
+			[
+				"return",
+				"wa2/wa/api/returncode.py"
+			],
+			[
+				"citkeys",
+				"wa2/wa/extapi/citkeys.py"
+			],
+			[
+				"test_ha",
+				"wa2/test/test_hardcodedkeys.py"
+			],
+			[
+				"api_",
+				"wa2/test_integration/api_tests.rb"
+			],
+			[
+				"cit",
+				"wa2/wa/extapi/citkeys.py"
+			],
+			[
+				"free",
+				"wa2/wa/api/freeforall.py"
+			],
+			[
+				"apifactory",
+				"wa2/wa/factory/apifactory.py"
+			],
+			[
+				"apicach",
+				"wa2/test_integration/api_tests_cache.rb"
+			],
+			[
+				"datatr",
+				"wa2/wa/api/dataretrievercontroller.py"
+			],
+			[
+				"hardcodedkeys",
+				"wa2/wa/api/hardcodedkeys.py"
+			],
+			[
+				"enginefac",
+				"wa2/wa/factory/enginefactory.py"
+			],
+			[
+				"test_ap",
+				"wa2/test/test_apifactory.py"
+			],
+			[
+				"apifa",
+				"wa2/wa/factory/apifactory.py"
+			],
+			[
+				"app.py",
+				"wa2/webapp/app.py"
+			],
+			[
+				"spa",
+				"wa2-setup/setup-wa2-prod.sh"
+			],
+			[
+				"api_tests_se",
+				"wa2/test_integration/api_tests_environment_setup.rb"
+			],
+			[
+				"rakefile.rb",
+				"wa2/test_integration/Rakefile.rb"
+			],
+			[
+				"api_tests",
+				"wa2/test_integration/api_tests.rb"
+			],
+			[
+				"test_apifactory",
+				"wa2/test/test_apifactory.py"
+			],
+			[
+				"testenginefactory",
+				"wa2/test/test_enginefactory.py"
+			],
+			[
+				"apifac",
+				"wa2/wa/factory/apifactory.py"
+			],
+			[
+				"rak",
+				"wa2/Rakefile-prod"
+			],
+			[
+				"rale",
+				"wa2/Rakefile-prod"
+			],
+			[
+				"__init__.py",
+				"wa2/wa/api/__init__.py"
+			],
+			[
+				"ini",
+				"wa2/wa/api/__init__.py"
+			],
+			[
+				"web",
+				"wa2/webapp/webapp.py"
+			],
+			[
+				"test_forecastioretriever",
+				"wa2/test/test_forecastioretriever.py"
+			],
+			[
+				"weba",
+				"wa2/webapp/webapp.py"
+			],
+			[
+				"webap",
+				"wa2/webapp_debug.py"
+			],
+			[
+				"test_enginefactory",
+				"wa2/test/test_enginefactory.py"
+			],
+			[
+				"test_integration_api",
+				"wa2/test/test_integration_api.py"
+			],
+			[
+				"test_integration_engine",
+				"wa2/test/test_integration_engine.py"
+			],
+			[
+				"test_keyvalidator",
+				"wa2/test/test_keyvalidator.py"
+			],
+			[
+				"test_productionkeys",
+				"wa2/test/test_productionkeys.py"
+			],
+			[
+				"pre",
+				"wa2/engine/precipitationtype.py"
+			],
+			[
+				"inten",
+				"wa2/engine/intensitytype.py"
+			],
+			[
+				"test_ao",
+				"wa2/test/test_apifactory.py"
+			],
+			[
+				"testin",
+				"wa2/test/test_integration_api.py"
+			],
+			[
+				"rakefile",
+				"wa2/Rakefile-prod"
+			],
+			[
+				"rea",
+				"readme.txt"
+			],
+			[
+				"contorll",
+				"api/dataretrievercontroller.py"
+			],
+			[
+				"test_cont",
+				"test/test_dataretrievercontroller.py"
+			],
+			[
+				"transmissionerror",
+				"engine/transmissionerror.py"
+			],
+			[
+				"test_fore",
+				"test/test_forecastioretriever.py"
+			],
+			[
+				"trans",
+				"engine/transmissionerror.py"
+			],
+			[
+				"dataretrie",
+				"engine/dataretriever.py"
+			],
+			[
+				"ci",
+				"extapi/citkeys.py"
+			],
+			[
+				"intensy",
+				"engine/intensitytype.py"
+			],
+			[
+				"dataretre",
+				"engine/dataretriever.py"
+			],
+			[
+				"retur",
+				"api/returncode.py"
+			],
+			[
+				"apirespo",
+				"api/apiresponse.py"
+			],
+			[
+				"ha",
+				"api/hardcodedkeys.py"
+			],
+			[
+				"test_free",
+				"test/test_freeforall.py"
+			],
+			[
+				"fre",
+				"api/freeforall.py"
+			],
+			[
+				"datare",
+				"api/datarequestbuilder.py"
+			],
+			[
+				"test_api_c",
+				"test/test_api_characterization.py"
+			],
+			[
+				"controller",
+				"api/dataretrievercontroller.py"
+			],
+			[
+				"test_en",
+				"test/test_enginefactory.py"
+			],
+			[
+				"factory",
+				"factory/enginefactory.py"
+			],
+			[
+				"test_datarequestcontroller",
+				"test/test_datarequestcontroller.py"
+			],
+			[
+				"test_datarequestbuilder",
+				"test/test_datarequestbuilder.py"
+			],
+			[
+				"datarequestcontroller",
+				"api/datarequestcontroller.py"
+			],
+			[
+				"dataresponsebuilder",
+				"extapi/dataresponsebuilder.py"
+			],
+			[
+				"inte",
+				"engine/intensitytype.py"
+			],
+			[
+				"datares",
+				"engine/dataresponse.py"
+			],
+			[
+				"datareques",
+				"engine/datarequest.py"
+			],
+			[
+				"dataretr",
+				"engine/dataretriever.py"
+			],
+			[
+				"key",
+				"api/keyvalidator.py"
+			],
+			[
+				"forea",
+				"extapi/forecastioretriever.py"
+			],
+			[
+				"ap",
+				"api/apiresponse.py"
+			],
+			[
+				"ret",
+				"api/returncode.py"
+			],
+			[
+				"keyp",
+				"api/keyvalidator.py"
+			],
+			[
+				"test_datare",
+				"test/test_dataresponsebuilder.py"
+			],
+			[
+				"test_data",
+				"test/test_datarequestbuilder.py"
+			],
+			[
+				"builder",
+				"extapi/dataresponsebuilder.py"
+			],
+			[
+				"apire",
+				"api/apirequest.py"
+			],
+			[
+				"test",
+				"test/test_apirequest.py"
+			],
+			[
+				"datareq",
+				"engine/datarequest.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/camilin/Dropbox-ruby-dev/Dropbox/first_app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 463.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
