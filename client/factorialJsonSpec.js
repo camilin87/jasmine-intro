@@ -1,5 +1,6 @@
 describe("factorial JSON", function(){
-    it ("knows how to sum", function(){
-        expect(1 + 1).toBe(2);
+    it ("knows how to double", function(){
+        var actualFact = factJson().doubleNumber(2);
+        expect(actualFact).toBe(4);
     });
 });
