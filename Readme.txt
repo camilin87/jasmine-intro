@@ -1,10 +1,15 @@
 Jasmine intro Client and Server side code
 
-index.html has the running unit tests
+Setup
+in the client folder run 
+> npm install
+
+Test Execution
+open index.html with the a web browser
 
 
-test with this call
+Factorial Service Url
 https://murmuring-ravine-8545.herokuapp.com/?n=500
 
-this call is the python limit, it takes around 20s
+# this call is the python limit, it takes around 20s
 https://murmuring-ravine-8545.herokuapp.com/?n=100000
