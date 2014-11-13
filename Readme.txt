@@ -1,5 +1,8 @@
 Jasmine intro Client and Server side code
 
+index.html has the running unit tests
+
+
 test with this call
 https://murmuring-ravine-8545.herokuapp.com/?n=500
 
